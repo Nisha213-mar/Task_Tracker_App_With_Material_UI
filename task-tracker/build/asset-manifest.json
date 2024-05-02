@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Task-Tracker-App-with-Material-UI/static/css/main.e6c13ad2.css",
+    "main.js": "/Task-Tracker-App-with-Material-UI/static/js/main.b0e9f044.js",
+    "static/js/453.977ddd65.chunk.js": "/Task-Tracker-App-with-Material-UI/static/js/453.977ddd65.chunk.js",
+    "index.html": "/Task-Tracker-App-with-Material-UI/index.html",
+    "main.e6c13ad2.css.map": "/Task-Tracker-App-with-Material-UI/static/css/main.e6c13ad2.css.map",
+    "main.b0e9f044.js.map": "/Task-Tracker-App-with-Material-UI/static/js/main.b0e9f044.js.map",
+    "453.977ddd65.chunk.js.map": "/Task-Tracker-App-with-Material-UI/static/js/453.977ddd65.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b0e9f044.js"
+  ]
+}
